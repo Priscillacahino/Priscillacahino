@@ -4,8 +4,46 @@
 
 💻 Este GitHub reúne principalmente projetos acadêmicos, exercícios e trabalhos desenvolvidos durante meus estudos, onde tenho a oportunidade de colocar em prática o que venho aprendendo.
 
-🎨 Também tenho interesse em UX/UI e desenvolvimento de sistemas, buscando entender não apenas como criar uma solução, mas também como torná-la mais simples e agradável para quem vai utilizá-la.
+🎨 Também tenho interesse em UX/UI, Análise de Dados, Customer Success (CS) e Customer Experience (CX). Por meio do desenvolvimento de sistemas, busco aprender a compreender não apenas como criar uma solução, mas também como torná-la mais simples, útil e agradável para quem vai utilizá-la.
 
 📚 Atualmente, estou aprendendo e praticando SQL, banco de dados, HTML, CSS, Git/GitHub e Figma.
 
 🚀 Meu objetivo é transformar cada projeto em uma oportunidade de aprendizado, evoluindo continuamente e construindo minha trajetória profissional na área de tecnologia.
+
+_____________________________________________________________________________________________________
+**📂 Sobre meus projetos**
+
+A maioria dos projetos disponíveis aqui faz parte da minha jornada acadêmica em ADS. Eles representam minha evolução ao longo do curso e minha busca por transformar conhecimento teórico em prática.
+
+Entre os projetos estão trabalhos relacionados a banco de dados, UX/UI e projetos da Fábrica de Software
+
+_________________________________________________________________________________________________________________
+
+**🚀 Áreas de interesse**
+
+🎨 UX/UI Design
+🧪 Qualidade e Testes de Software
+📊 Dados e Análise de Dados
+🗄️ Banco de Dados e SQL
+🤖 Inteligência Artificial
+🔄 Análise e Melhoria de Processos
+
+___________________________________________________________________________________________________________________
+
+**📫 Onde me encontrar**
+
+<p align="left">
+  <a href="[SEU_LINKEDI](https://www.linkedin.com/in/priscilla-cahino-04a718aa/)N">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Priscillacahino">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+___________________________________________________________
+
+
+***Quantidade de esforço é igual a quantidade de interesse!***
+
+
+⭐ Obrigada por visitar meu perfil!
