@@ -55,7 +55,7 @@ Projeto desenvolvido com foco em análise de dados e risco de inadimplência, ut
 <p align="center">
   
 </p><img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 15_26_29" src="https://github.com/user-attachments/assets/d325b79a-bc2f-4d46-ad05-0491191b1d62" />
- />
+ 
 
 <p>
 Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo prototipação de telas, organização de fluxos e criação de interfaces com foco em usabilidade e experiência do usuário.
