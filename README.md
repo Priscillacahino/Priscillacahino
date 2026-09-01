@@ -23,38 +23,52 @@ ________________________________________________________________________________
 
 ___________________________________________________________________________________________________________________
 
-## 🚀 Projetos em destaque
 
-A maioria dos projetos disponíveis aqui faz parte da minha jornada acadêmica em ADS. Eles representam minha evolução ao longo do curso e minha busca por transformar conhecimento teórico em prática.
+<h2>🚀 Projetos em destaque</h2>
 
-### 📊 ClínicaCare — Análise de Dados e Risco de Inadimplência
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      
+<h3 align="center">📊 ClínicaCare</h3>
 
 <p align="center">
+  <img src="LINK_DA_IMAGEM_CLINICACARE" alt="Dashboard ClínicaCare" width="100%">
+</p>
 
-</p><img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 11_53_08" src="https://github.com/user-attachments/assets/efce9e74-58cf-41e0-aa41-e2de589308ca" />
-
-
+<p>
 Projeto desenvolvido com foco em análise de dados e risco de inadimplência, utilizando SQL, Python, Machine Learning e Power BI.
-
-🔗 [Ver projeto no GitHub](https://github.com/Priscillacahino/Desafio_Final_WKS_26.2)
-
-
-
-
-
-
-### 🎨 Adm4All — Administração para Todos
-
+</p>
 
 <p align="center">
-  
-</p><img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 12_15_21" src="https://github.com/user-attachments/assets/ded112b0-2f74-4f89-8997-12b2a4ce9f40" />
+  <a href="LINK_DO_REPOSITORIO_CLINICACARE">
+    🔗 Ver projeto no GitHub
+  </a>
+</p>
 
-Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo prototipação de telas, organização de fluxos e criação de interfaces com foco em usabilidade e experiência do usuário. 
+</td>
 
+<td width="50%" valign="top">
 
-🔗 [Ver projeto no GitHub](https://github.com/Priscillacahino/Fabrica-de-Software---Adm4All)
-______________________________________________________________________
+<h3 align="center">🎨 Adm4All — Administração para Todos</h3>
+
+<p align="center">
+  <img src="LINK_DA_IMAGEM_ADM4ALL" alt="Projeto Adm4All" width="100%">
+</p>
+
+<p>
+Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo prototipação de telas, organização de fluxos e criação de interfaces com foco em usabilidade e experiência do usuário.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Priscillacahino/Fabrica-de-Software---Adm4All">
+    🔗 Ver projeto no GitHub
+  </a>
+</p>
+
+</td>
+  </tr>
+</table>________________________________________________
 **📫 Onde me encontrar**
 <p align="left">
   <a href="https://www.linkedin.com/in/priscilla-cahino-04a718aa/">
