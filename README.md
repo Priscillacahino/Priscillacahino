@@ -41,8 +41,8 @@ Projeto desenvolvido com foco em análise de dados e risco de inadimplência, ut
 </p>
 
 <p align="center">
-  <a href="LINK_DO_REPOSITORIO_CLINICACARE">
-    🔗 Ver projeto no GitHub
+  <a href="[LINK_DO_REPOSITORIO_CLINICACARE"](https://github.com/Priscillacahino/Desafio_Final_WKS_26.2--Cl-nicaCare.git)>
+    🔗 Ver projeto no GitHub 
   </a>
 </p>
 
@@ -69,6 +69,8 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
 </td>
   </tr>
 </table>________________________________________________
+
+
 **📫 Onde me encontrar**
 <p align="left">
   <a href="https://www.linkedin.com/in/priscilla-cahino-04a718aa/">
