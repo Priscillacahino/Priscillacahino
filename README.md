@@ -53,8 +53,8 @@ Projeto desenvolvido com foco em análise de dados e risco de inadimplência, ut
 <h3 align="center">🎨 Adm4All — Administração para Todos</h3>
 
 <p align="center">
-  <img src="LINK_DA_IMAGEM_ADM4ALL" alt="Projeto Adm4All" width="100%">
-</p>
+  
+</p><img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 12_15_21" src="https://github.com/user-attachments/assets/ded112b0-2f74-4f89-8997-12b2a4ce9f40" />
 
 <p>
 Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo prototipação de telas, organização de fluxos e criação de interfaces com foco em usabilidade e experiência do usuário.
