@@ -80,7 +80,7 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
   Protótipo desenvolvido em um workshop de UX/UI, com criação das telas e organização da experiência de navegação para um serviço voltado ao segmento pet.
 
 <p align="center">
-  <a href="https://github.com/Priscillacahino/Fabrica-de-Software---Adm4All">
+  <a href="https://github.com/Priscillacahino/Workshop---Desafio-Final--PetZona.git">
     🔗 Ver projeto no GitHub
   </a>
 </p>
@@ -92,13 +92,41 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
 
 **📫 Onde me encontrar**
 <p align="left">
-  <a href="https://www.linkedin.com/in/priscilla-cahino-04a718aa/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/priscilla-cahino-04a718aa/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn">
   </a>
+
   &nbsp;&nbsp;
-  <a href="https://github.com/Priscillacahino">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px">
+
+  <!-- GitHub -->
+  <a href="https://github.com/Priscillacahino" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub">
   </a>
+
+  &nbsp;&nbsp;
+
+  <!-- E-mail -->
+  <a href="mailto:priscilla_cahino@hotmail.com">
+    📧 E-mail
+  </a>
+
+  &nbsp;&nbsp;
+
+  <!-- Telefone -->
+  <a href="tel:+5583999">
+    📱 Telefone
+  </a>
+
+  &nbsp;&nbsp;
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5583999553329">
+    💬 WhatsApp
+  </a>
+
+
 </p>
 ___________________________________________________________
 
