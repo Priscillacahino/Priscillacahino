@@ -41,7 +41,7 @@ Projeto desenvolvido com foco em análise de dados e risco de inadimplência, ut
 </p>
 
 <p align="center">
-  <a href="[LINK_DO_REPOSITORIO_CLINICACARE"](https://github.com/Priscillacahino/Desafio_Final_WKS_26.2--Cl-nicaCare.git)>
+  <a href="https://github.com/Priscillacahino/Desafio_Final_WKS_26.2--Cl-nicaCare.git">
     🔗 Ver projeto no GitHub 
   </a>
 </p>
