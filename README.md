@@ -30,8 +30,9 @@ A maioria dos projetos disponíveis aqui faz parte da minha jornada acadêmica e
 ### 📊 ClínicaCare — Análise de Dados e Risco de Inadimplência
 
 <p align="center">
-  <img src="COLE_AQUI_O_LINK_DA_IMAGEM_DO_DASHBOARD" alt="Dashboard ClínicaCare" width="800"/>
-</p>
+
+</p><img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 11_53_08" src="https://github.com/user-attachments/assets/efce9e74-58cf-41e0-aa41-e2de589308ca" />
+
 
 Projeto desenvolvido com foco em análise de dados e risco de inadimplência, utilizando SQL, Python, Machine Learning e Power BI.
 
