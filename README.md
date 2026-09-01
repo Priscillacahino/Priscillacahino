@@ -37,6 +37,23 @@ A maioria dos projetos disponíveis aqui faz parte da minha jornada acadêmica e
 Projeto desenvolvido com foco em análise de dados e risco de inadimplência, utilizando SQL, Python, Machine Learning e Power BI.
 
 🔗 [Ver projeto no GitHub](https://github.com/Priscillacahino/Desafio_Final_WKS_26.2)
+
+
+
+
+
+
+### 🎨 Adm4All — Administração para Todos
+
+
+<p align="center">
+  
+</p><img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 12_15_21" src="https://github.com/user-attachments/assets/ded112b0-2f74-4f89-8997-12b2a4ce9f40" />
+
+Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo prototipação de telas, organização de fluxos e criação de interfaces com foco em usabilidade e experiência do usuário. 
+
+
+🔗 [Ver projeto no GitHub](https://github.com/Priscillacahino/Fabrica-de-Software---Adm4All)
 ______________________________________________________________________
 **📫 Onde me encontrar**
 <p align="left">
