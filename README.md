@@ -68,6 +68,25 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
 
 </td>
   </tr>
+</table>
+
+<h3 align="center"> 🐾 PetZone </h3>
+
+<p align="center">
+  
+</p><img <img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 14_55_00" src="https://github.com/user-attachments/assets/6ade19ab-a03b-4db5-914c-296e42763697" /> 
+
+<p>
+  Protótipo desenvolvido em um workshop de UX/UI, com criação das telas e organização da experiência de navegação para um serviço voltado ao segmento pet.
+
+<p align="center">
+  <a href="https://github.com/Priscillacahino/Fabrica-de-Software---Adm4All">
+    🔗 Ver projeto no GitHub
+  </a>
+</p>
+
+</td>
+  </tr>
 </table>________________________________________________
 
 
