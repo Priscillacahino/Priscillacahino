@@ -90,43 +90,14 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
 </table>________________________________________________
 
 
-**📫 Onde me encontrar**
+<h3>📫 Onde me encontrar</h3>
+
 <p align="left">
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/priscilla-cahino-04a718aa/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn">
-  </a>
-
-  &nbsp;&nbsp;
-
-  <!-- GitHub -->
-  <a href="https://github.com/Priscillacahino" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" alt="GitHub">
-  </a>
-
-  &nbsp;&nbsp;
-
-  <!-- E-mail -->
-  <a href="mailto:priscilla_cahino@hotmail.com">
-    📧 E-mail
-  </a>
-
-  &nbsp;&nbsp;
-
-  <!-- Telefone -->
-  <a href="tel:+5583999">
-    📱 Telefone
-  </a>
-
-  &nbsp;&nbsp;
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/5583999553329">
-    💬 WhatsApp
-  </a>
-
-
+<a href="https://www.linkedin.com/in/priscilla-cahino-04a718aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://github.com/Priscillacahino" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="mailto:priscilla_cahino@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
+<a href="tel:+5583999553329"><img src="https://img.shields.io/badge/Telefone-4CAF50?style=for-the-badge&logo=phonepe&logoColor=white" alt="Telefone"></a>
+<a href="https://wa.me/5583999553329" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 ___________________________________________________________
 
