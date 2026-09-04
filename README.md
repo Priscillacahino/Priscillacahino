@@ -2,9 +2,11 @@
 
 🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo, aos poucos, minha trajetória na área de tecnologia.
 
+💼 Trago experiência profissional em atendimento ao cliente, relacionamento, operações financeiras, análise de crédito e melhoria de processos. Atualmente, busco integrar essa experiência de negócio aos conhecimentos que venho desenvolvendo em tecnologia.
+
 💻 Este GitHub reúne principalmente projetos acadêmicos, exercícios e trabalhos desenvolvidos durante meus estudos, onde tenho a oportunidade de colocar em prática o que venho aprendendo.
 
-🎨 Também tenho interesse em UX/UI, Análise de Dados, Customer Success (CS) e Customer Experience (CX). Por meio do desenvolvimento de sistemas, busco aprender a compreender não apenas como criar uma solução, mas também como torná-la mais simples, útil e agradável para quem vai utilizá-la.
+🎨 Por meio do desenvolvimento de sistemas, busco aprender a criar soluções que sejam não apenas funcionais, mas também simples, úteis e agradáveis para quem vai utilizá-las. Tenho interesse na conexão entre Customer Success, Customer Experience, processos e tecnologia, aplicando conhecimentos de dados, SQL e UX/UI para compreender problemas, melhorar experiências e apoiar a construção de soluções mais eficientes.
 
 📚 Atualmente, estou aprendendo e praticando SQL, banco de dados, HTML, CSS, Git/GitHub e Figma.
 
@@ -12,16 +14,14 @@
 
 _____________________________________________________________________________________________________
 
-**🚀 Áreas de interesse**
+**🚀 Áreas de interesse**<br>
 
-🎨 UX/UI Design
-🧪 Qualidade e Testes de Software
-📊 Dados e Análise de Dados
-🗄️ Banco de Dados e SQL
-🤖 Inteligência Artificial
-🔄 Análise e Melhoria de Processos
-
-___________________________________________________________________________________________________________________
+💼 Customer Success & Customer Experience<br>
+🔄 Processos, Operações e Melhoria Contínua<br>
+📊 Dados, Banco de Dados & SQL<br>
+🎨 UX/UI aplicado à experiência do usuário<br>
+🤖 Inteligência Artificial aplicada a estudos e soluções digitais
+______________________________________________________________________
 
 
 <h2>🚀 Projetos em destaque</h2>
@@ -71,14 +71,16 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
   </tr>
 </table>
 
-<h3 align="center"> 🐾 PetZone </h3>
+<h3 align="center"> 🐾 PetZona </h3>
 
 <p align="center">
   
 </p><img <img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 14_55_00" src="https://github.com/user-attachments/assets/6ade19ab-a03b-4db5-914c-296e42763697" /> 
 
 <p>
-  Protótipo desenvolvido em um workshop de UX/UI, com criação das telas e organização da experiência de navegação para um serviço voltado ao segmento pet.
+  Projeto acadêmico desenvolvido como avaliação final de um workshop de UX/UI.
+
+A proposta consistiu na criação de um protótipo para um serviço do segmento pet, trabalhando conceitos de jornada do usuário, organização das telas e experiência de navegação..
 
 <p align="center">
   <a href="https://github.com/Priscillacahino/Workshop---Desafio-Final--PetZona.git">
