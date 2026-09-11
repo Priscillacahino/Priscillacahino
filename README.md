@@ -96,7 +96,7 @@ A proposta consistiu na criação de um protótipo para um serviço do segmento 
 <h3>📫 Onde me encontrar</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/priscilla-cahino-04a718aa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/priscilla-cahino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/Priscillacahino" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <a href="mailto:priscilla_cahino@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
 <a href="tel:+5583999553329"><img src="https://img.shields.io/badge/Telefone-4CAF50?style=for-the-badge&logo=phonepe&logoColor=white" alt="Telefone"></a>
