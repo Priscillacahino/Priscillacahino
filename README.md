@@ -1,48 +1,48 @@
-👋 Olá, sou Priscilla!
+﻿ðŸ‘‹ OlÃ¡, sou Priscilla!
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo, aos poucos, minha trajetória na área de tecnologia.
+ðŸŽ“ Sou estudante de AnÃ¡lise e Desenvolvimento de Sistemas (ADS) e estou construindo, aos poucos, minha trajetÃ³ria na Ã¡rea de tecnologia.
 
-💼 Trago experiência profissional em atendimento ao cliente, relacionamento, operações financeiras, análise de crédito e melhoria de processos. Atualmente, busco integrar essa experiência de negócio aos conhecimentos que venho desenvolvendo em tecnologia.
+ðŸ’¼ Trago experiÃªncia profissional em atendimento ao cliente, relacionamento, operaÃ§Ãµes financeiras, anÃ¡lise de crÃ©dito e melhoria de processos. Atualmente, busco integrar essa experiÃªncia de negÃ³cio aos conhecimentos que venho desenvolvendo em tecnologia.
 
-💻 Este GitHub reúne principalmente projetos acadêmicos, exercícios e trabalhos desenvolvidos durante meus estudos, onde tenho a oportunidade de colocar em prática o que venho aprendendo.
+ðŸ’» Este GitHub reÃºne principalmente projetos acadÃªmicos, exercÃ­cios e trabalhos desenvolvidos durante meus estudos, onde tenho a oportunidade de colocar em prÃ¡tica o que venho aprendendo.
 
-🎨 Por meio do desenvolvimento de sistemas, busco aprender a criar soluções que sejam não apenas funcionais, mas também simples, úteis e agradáveis para quem vai utilizá-las. Tenho interesse na conexão entre Customer Success, Customer Experience, processos e tecnologia, aplicando conhecimentos de dados, SQL e UX/UI para compreender problemas, melhorar experiências e apoiar a construção de soluções mais eficientes.
+ðŸŽ¨ Por meio do desenvolvimento de sistemas, busco aprender a criar soluÃ§Ãµes que sejam nÃ£o apenas funcionais, mas tambÃ©m simples, Ãºteis e agradÃ¡veis para quem vai utilizÃ¡-las. Tenho interesse na conexÃ£o entre Customer Success, Customer Experience, processos e tecnologia, aplicando conhecimentos de dados, SQL e UX/UI para compreender problemas, melhorar experiÃªncias e apoiar a construÃ§Ã£o de soluÃ§Ãµes mais eficientes.
 
-📚 Atualmente, estou aprendendo e praticando SQL, banco de dados, HTML, CSS, Git/GitHub e Figma.
+ðŸ“š Atualmente, estou aprendendo e praticando SQL, banco de dados, HTML, CSS, Git/GitHub e Figma.
 
-🚀 Meu objetivo é transformar cada projeto em uma oportunidade de aprendizado, evoluindo continuamente e construindo minha trajetória profissional na área de tecnologia.
+ðŸš€ Meu objetivo Ã© transformar cada projeto em uma oportunidade de aprendizado, evoluindo continuamente e construindo minha trajetÃ³ria profissional na Ã¡rea de tecnologia.
 
 _____________________________________________________________________________________________________
 
-**🚀 Áreas de interesse**<br>
+**ðŸš€ Ãreas de interesse**<br>
 
-💼 Customer Success & Customer Experience<br>
-🔄 Processos, Operações e Melhoria Contínua<br>
-📊 Dados, Banco de Dados & SQL<br>
-🎨 UX/UI aplicado à experiência do usuário<br>
-🤖 Inteligência Artificial aplicada a estudos e soluções digitais
+ðŸ’¼ Customer Success & Customer Experience<br>
+ðŸ”„ Processos, OperaÃ§Ãµes e Melhoria ContÃ­nua<br>
+ðŸ“Š Dados, Banco de Dados & SQL<br>
+ðŸŽ¨ UX/UI aplicado Ã  experiÃªncia do usuÃ¡rio<br>
+ðŸ¤– InteligÃªncia Artificial aplicada a estudos e soluÃ§Ãµes digitais
 ______________________________________________________________________
 
 
-<h2>🚀 Projetos em destaque</h2>
+<h2>ðŸš€ Projetos em destaque</h2>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       
-<h3 align="center">📊 ClínicaCare</h3>
+<h3 align="center">ðŸ“Š ClÃ­nicaCare</h3>
 
 <p align="center">
 
 </p><img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 11_53_08" src="https://github.com/user-attachments/assets/efce9e74-58cf-41e0-aa41-e2de589308ca" />
 <p>
   
-Projeto desenvolvido com foco em análise de dados e risco de inadimplência, utilizando SQL, Python, Machine Learning e Power BI.
+Projeto desenvolvido com foco em anÃ¡lise de dados e risco de inadimplÃªncia, utilizando SQL, Python, Machine Learning e Power BI.
 </p>
 
 <p align="center">
   <a href="https://github.com/Priscillacahino/Desafio_Final_WKS_26.2--Cl-nicaCare.git">
-    🔗 Ver projeto no GitHub 
+    ðŸ”— Ver projeto no GitHub 
   </a>
 </p>
 
@@ -50,7 +50,7 @@ Projeto desenvolvido com foco em análise de dados e risco de inadimplência, ut
 
 <td width="50%" valign="top">
 
-<h3 align="center">🎨 Adm4All — Administração para Todos</h3>
+<h3 align="center">ðŸŽ¨ Adm4All â€” AdministraÃ§Ã£o para Todos</h3>
 
 <p align="center">
   
@@ -58,12 +58,12 @@ Projeto desenvolvido com foco em análise de dados e risco de inadimplência, ut
  
 
 <p>
-Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo prototipação de telas, organização de fluxos e criação de interfaces com foco em usabilidade e experiência do usuário.
+Projeto desenvolvido na FÃ¡brica de Software com atuaÃ§Ã£o em UX/UI, envolvendo prototipaÃ§Ã£o de telas, organizaÃ§Ã£o de fluxos e criaÃ§Ã£o de interfaces com foco em usabilidade e experiÃªncia do usuÃ¡rio.
 </p>
 
 <p align="center">
   <a href="https://github.com/Priscillacahino/Fabrica-de-Software---Adm4All">
-    🔗 Ver projeto no GitHub
+    ðŸ”— Ver projeto no GitHub
   </a>
 </p>
 
@@ -71,20 +71,20 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
   </tr>
 </table>
 
-<h3 align="center"> 🐾 PetZona </h3>
+<h3 align="center"> ðŸ¾ PetZona </h3>
 
 <p align="center">
   
-</p><img <img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 14_55_00" src="https://github.com/user-attachments/assets/6ade19ab-a03b-4db5-914c-296e42763697" /> 
+</p><img <img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 14_55_00" src="https://raw.githubusercontent.com/Priscillacahino/Workshop_Desafio-Final_PetZona/main/petzona-nova-prototipacao.webp" /> 
 
 <p>
-  Projeto acadêmico desenvolvido como avaliação final de um workshop de UX/UI.
+  Projeto acadÃªmico desenvolvido como avaliaÃ§Ã£o final de um workshop de UX/UI.
 
-A proposta consistiu na criação de um protótipo para um serviço do segmento pet, trabalhando conceitos de jornada do usuário, organização das telas e experiência de navegação..
+A proposta consistiu na criaÃ§Ã£o de um protÃ³tipo para um serviÃ§o do segmento pet, trabalhando conceitos de jornada do usuÃ¡rio, organizaÃ§Ã£o das telas e experiÃªncia de navegaÃ§Ã£o..
 
 <p align="center">
   <a href="https://github.com/Priscillacahino/Workshop---Desafio-Final--PetZona.git">
-    🔗 Ver projeto no GitHub
+    ðŸ”— Ver projeto no GitHub
   </a>
 </p>
 
@@ -93,7 +93,7 @@ A proposta consistiu na criação de um protótipo para um serviço do segmento 
 </table>________________________________________________
 
 
-<h3>📫 Onde me encontrar</h3>
+<h3>ðŸ“« Onde me encontrar</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/priscilla-cahino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -106,7 +106,8 @@ ___________________________________________________________
 
 
 
-***Quantidade de esforço é igual a quantidade de interesse!***
+***Quantidade de esforÃ§o Ã© igual a quantidade de interesse!***
 
 
-⭐ Obrigada por visitar meu perfil!
+â­ Obrigada por visitar meu perfil!
+
