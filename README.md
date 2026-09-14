@@ -41,7 +41,7 @@ Projeto desenvolvido com foco em análise de dados e risco de inadimplência, ut
 </p>
 
 <p align="center">
-  <a href="https://github.com/Priscillacahino/Desafio_Final_WKS_26.2--Cl-nicaCare.git">
+  <a href="https://github.com/Priscillacahino/Desafio_Final_Workshop_26.2_ClinicaCare">
     🔗 Ver projeto no GitHub 
   </a>
 </p>
@@ -62,7 +62,7 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
 </p>
 
 <p align="center">
-  <a href="https://github.com/Priscillacahino/Fabrica-de-Software---Adm4All">
+  <a href="https://github.com/Priscillacahino/Fabrica_de_Software_2026.1_Adm4All">
     🔗 Ver projeto no GitHub
   </a>
 </p>
@@ -78,9 +78,9 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
 </p><img width="1672" height="941" alt="Nova prototipação do projeto PetZona" src="https://raw.githubusercontent.com/Priscillacahino/Workshop_Desafio-Final_PetZona/main/petzona-nova-prototipacao.webp" /> 
 
 <p>
-  Projeto acadêmico desenvolvido como avaliação final de um workshop de UX/UI.
+  Projeto acadêmico de UX/UI desenvolvido a partir da jornada do tutor e atualmente em evolução.
 
-A proposta consistiu na criação de um protótipo para um serviço do segmento pet, trabalhando conceitos de jornada do usuário, organização das telas e experiência de navegação..
+Além da interface, o projeto considera a jornada do tutor, pontos de atrito, confiança e acompanhamento dos serviços, incorporando também uma visão de Customer Experience.
 
 <p align="center">
   <a href="https://github.com/Priscillacahino/Workshop_Desafio-Final_PetZona">
