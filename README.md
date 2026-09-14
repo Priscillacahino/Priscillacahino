@@ -75,7 +75,7 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
 
 <p align="center">
   
-</p><img width="1672" height="941" alt="Nova prototipação do projeto PetZona" src="https://raw.githubusercontent.com/Priscillacahino/Workshop_Desafio-Final_PetZona/main/petzona-nova-prototipacao.webp" /> 
+</p><img width="1672" height="941" alt="Nova prototipação do projeto PetZona" src="https://raw.githubusercontent.com/Priscillacahino/PetZona/main/petzona-nova-prototipacao.webp" /> 
 
 <p>
   Projeto acadêmico de UX/UI desenvolvido a partir da jornada do tutor e atualmente em evolução.
@@ -83,7 +83,7 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
 Além da interface, o projeto considera a jornada do tutor, pontos de atrito, confiança e acompanhamento dos serviços, incorporando também uma visão de Customer Experience.
 
 <p align="center">
-  <a href="https://github.com/Priscillacahino/Workshop_Desafio-Final_PetZona">
+  <a href="https://github.com/Priscillacahino/PetZona">
     🔗 Ver projeto no GitHub
   </a>
 </p>
