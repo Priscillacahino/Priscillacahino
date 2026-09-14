@@ -75,7 +75,7 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
 
 <p align="center">
   
-</p><img <img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 14_55_00" src="https://github.com/user-attachments/assets/6ade19ab-a03b-4db5-914c-296e42763697" /> 
+</p><img width="1672" height="941" alt="Nova prototipação do projeto PetZona" src="https://raw.githubusercontent.com/Priscillacahino/Workshop_Desafio-Final_PetZona/main/petzona-nova-prototipacao.webp" /> 
 
 <p>
   Projeto acadêmico desenvolvido como avaliação final de um workshop de UX/UI.
@@ -83,7 +83,7 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
 A proposta consistiu na criação de um protótipo para um serviço do segmento pet, trabalhando conceitos de jornada do usuário, organização das telas e experiência de navegação..
 
 <p align="center">
-  <a href="https://github.com/Priscillacahino/Workshop---Desafio-Final--PetZona.git">
+  <a href="https://github.com/Priscillacahino/Workshop_Desafio-Final_PetZona">
     🔗 Ver projeto no GitHub
   </a>
 </p>
