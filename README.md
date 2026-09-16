@@ -75,7 +75,9 @@ Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo 
 
 <p align="center">
   
-</p><img width="1672" height="941" alt="Nova prototipação do projeto PetZona" src="https://raw.githubusercontent.com/Priscillacahino/PetZona/main/petzona-nova-prototipacao.webp" /> 
+<img width="1672" height="941"
+alt="PetZona — Estudo de Caso Acadêmico de UX/UI"
+src="https://raw.githubusercontent.com/Priscillacahino/PetZona/main/petzona-capa-perfil.webp" />
 
 <p>
   Projeto acadêmico de UX/UI desenvolvido a partir da jornada do tutor e atualmente em evolução.
