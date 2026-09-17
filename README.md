@@ -1,114 +1,98 @@
-👋 Olá, sou Priscilla!
+﻿# 👋 Olá, sou Priscilla!
 
-🎓 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) e estou construindo, aos poucos, minha trajetória na área de tecnologia.
+🎓 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha trajetória na área de tecnologia.
 
-💼 Trago experiência profissional em atendimento ao cliente, relacionamento, operações financeiras, análise de crédito e melhoria de processos. Atualmente, busco integrar essa experiência de negócio aos conhecimentos que venho desenvolvendo em tecnologia.
+💼 Minha experiência profissional está principalmente ligada a **atendimento ao cliente, relacionamento, operações financeiras e processos**. Atualmente, busco conectar essa experiência aos conhecimentos que venho desenvolvendo durante a graduação.
 
-💻 Este GitHub reúne principalmente projetos acadêmicos, exercícios e trabalhos desenvolvidos durante meus estudos, onde tenho a oportunidade de colocar em prática o que venho aprendendo.
+💻 Este GitHub reúne projetos acadêmicos, pessoais e atividades desenvolvidas durante meus estudos. Neles, venho tendo contato com desenvolvimento, dados, UX/UI, experiência do usuário e organização de soluções digitais, utilizando também ferramentas de **Inteligência Artificial como apoio ao aprendizado e ao desenvolvimento dos projetos**.
 
-🎨 Por meio do desenvolvimento de sistemas, busco aprender a criar soluções que sejam não apenas funcionais, mas também simples, úteis e agradáveis para quem vai utilizá-las. Tenho interesse na conexão entre Customer Success, Customer Experience, processos e tecnologia, aplicando conhecimentos de dados, SQL e UX/UI para compreender problemas, melhorar experiências e apoiar a construção de soluções mais eficientes.
+🌐 **[Conheça meu portfólio profissional](https://portfoliopriscilla.vercel.app/)**
 
-📚 Atualmente, estou aprendendo e praticando SQL, banco de dados, HTML, CSS, Git/GitHub e Figma.
+---
 
-🚀 Meu objetivo é transformar cada projeto em uma oportunidade de aprendizado, evoluindo continuamente e construindo minha trajetória profissional na área de tecnologia.
+## 🚀 Áreas de interesse
 
-_____________________________________________________________________________________________________
+- 💼 **Customer Experience (CX), Customer Success (CS) e Relacionamento**
+- 🔄 **Processos, Operações e Melhoria Contínua**
+- 🎨 **UX/UI e Experiência do Usuário**
+- 📊 **Tecnologia, Dados e Inteligência Artificial aplicada a projetos**
 
-**🚀 Áreas de interesse**<br>
+---
 
-💼 Customer Success & Customer Experience<br>
-🔄 Processos, Operações e Melhoria Contínua<br>
-📊 Dados, Banco de Dados & SQL<br>
-🎨 UX/UI aplicado à experiência do usuário<br>
-🤖 Inteligência Artificial aplicada a estudos e soluções digitais
-______________________________________________________________________
+## 📌 Projetos em destaque
 
-
-<h2>🚀 Projetos em destaque</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      
-<h3 align="center">📊 ClínicaCare</h3>
+### 🐾 PetZona
 
 <p align="center">
-
-</p><img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 11_53_08" src="https://github.com/user-attachments/assets/efce9e74-58cf-41e0-aa41-e2de589308ca" />
-<p>
-  
-Projeto desenvolvido com foco em análise de dados e risco de inadimplência, utilizando SQL, Python, Machine Learning e Power BI.
+  <img
+    src="https://raw.githubusercontent.com/Priscillacahino/PetZona/main/petzona-capa-perfil.webp"
+    alt="PetZona — Estudo de Caso Acadêmico de UX/UI"
+    width="720"
+  />
 </p>
+
+Projeto acadêmico de **UX/UI em evolução**, desenvolvido a partir da jornada do tutor e considerando usabilidade, pontos de atrito, confiança e experiência nos serviços.
+
+🔗 **[Ver projeto no GitHub](https://github.com/Priscillacahino/PetZona)**
+
+---
+
+### 🎨 Adm4All — Administração para Todos
 
 <p align="center">
-  <a href="https://github.com/Priscillacahino/Desafio_Final_Workshop_26.2_ClinicaCare">
-    🔗 Ver projeto no GitHub 
-  </a>
+  <img
+    src="https://github.com/user-attachments/assets/ded112b0-2f74-4f89-8997-12b2a4ce9f40"
+    alt="Adm4All — Administração para Todos"
+    width="720"
+  />
 </p>
 
-</td>
+Projeto desenvolvido na **Fábrica de Software do UNIPÊ**, com minha atuação em UX/UI, prototipação de telas, organização dos fluxos e estruturação da experiência de diferentes perfis de usuários.
 
-<td width="50%" valign="top">
+🔗 **[Ver projeto no GitHub](https://github.com/Priscillacahino/Fabrica_de_Software_2026.1_Adm4All)**
 
-<h3 align="center">🎨 Adm4All — Administração para Todos</h3>
+---
+
+### 🏖️ Casa de Praia Vênus
 
 <p align="center">
-  
-</p><img width="1672" height="941" alt="ChatGPT Image 1 de set  de 2026, 15_26_29" src="https://github.com/user-attachments/assets/d325b79a-bc2f-4d46-ad05-0491191b1d62" />
- 
-
-<p>
-Projeto desenvolvido na Fábrica de Software com atuação em UX/UI, envolvendo prototipação de telas, organização de fluxos e criação de interfaces com foco em usabilidade e experiência do usuário.
+  <img
+    src="https://raw.githubusercontent.com/Priscillacahino/Casa_de_praia_Venus/main/public/images/piscina_churrasqueira.jpg"
+    alt="Casa de Praia Vênus"
+    width="720"
+  />
 </p>
+
+Projeto pessoal em desenvolvimento que reúne planejamento de uma solução digital para uma futura operação de hospedagem, considerando experiência do cliente, organização dos processos e funcionalidades para apresentação e reserva do imóvel.
+
+🔗 **[Ver projeto no GitHub](https://github.com/Priscillacahino/Casa_de_praia_Venus)**
+
+---
+
+### 🐾 Padrinhos da Rua
 
 <p align="center">
-  <a href="https://github.com/Priscillacahino/Fabrica_de_Software_2026.1_Adm4All">
-    🔗 Ver projeto no GitHub
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/Priscillacahino/PadrinhosdaRua/main/prototipos/mobile/tela_de_boas_vindas_padrinhos_de_rua.png"
+    alt="Padrinhos da Rua — Projeto Extensionista"
+    width="420"
+  />
 </p>
 
-</td>
-  </tr>
-</table>
+Projeto extensionista de **Análise e Desenvolvimento de Sistemas**, voltado à aplicação de tecnologia social no apoio a animais comunitários e em situação de rua, envolvendo participação da comunidade, organização de pontos de apoio e planejamento de abrigos sustentáveis.
 
-<h3 align="center"> 🐾 PetZona </h3>
+🔗 **[Ver projeto no GitHub](https://github.com/Priscillacahino/PadrinhosdaRua)**
 
-<p align="center">
-  
-<img width="1672" height="941"
-alt="PetZona — Estudo de Caso Acadêmico de UX/UI"
-src="https://raw.githubusercontent.com/Priscillacahino/PetZona/main/petzona-capa-perfil.webp" />
+---
 
-<p>
-  Projeto acadêmico de UX/UI desenvolvido a partir da jornada do tutor e atualmente em evolução.
+## 📫 Onde me encontrar
 
-Além da interface, o projeto considera a jornada do tutor, pontos de atrito, confiança e acompanhamento dos serviços, incorporando também uma visão de Customer Experience.
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliopriscilla.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priscilla-cahino/)
+[![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:priscilla_cahino@hotmail.com)
 
-<p align="center">
-  <a href="https://github.com/Priscillacahino/PetZona">
-    🔗 Ver projeto no GitHub
-  </a>
-</p>
+---
 
-</td>
-  </tr>
-</table>________________________________________________
-
-
-<h3>📫 Onde me encontrar</h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/priscilla-cahino/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://github.com/Priscillacahino" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="mailto:priscilla_cahino@hotmail.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="E-mail"></a>
-<a href="tel:+5583999553329"><img src="https://img.shields.io/badge/Telefone-4CAF50?style=for-the-badge&logo=phonepe&logoColor=white" alt="Telefone"></a>
-<a href="https://wa.me/5583999553329" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-</p>
-___________________________________________________________
-
-
-
-***Quantidade de esforço é igual a quantidade de interesse!***
-
+***Quantidade de esforço é igual à quantidade de interesse!***
 
 ⭐ Obrigada por visitar meu perfil!
