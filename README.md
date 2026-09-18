@@ -53,19 +53,20 @@ Projeto desenvolvido na **Fábrica de Software do UNIPÊ**, com minha atuação 
 
 ---
 
-### 🏖️ Casa de Praia Vênus
+### 🚗 AlcoLock — Bloqueio Veicular Preventivo
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Priscillacahino/Casa_de_praia_Venus/main/public/images/piscina_churrasqueira.jpg"
-    alt="Casa de Praia Vênus"
+    src="https://raw.githubusercontent.com/Priscillacahino/AlcoLock_Bloqueio-Veicular-Antialcool/main/docs/imagens/alcolock_showcase_readme.png"
+    alt="AlcoLock — Bloqueio Veicular Preventivo por Detecção de Álcool"
     width="720"
   />
 </p>
 
-Projeto pessoal em desenvolvimento que reúne planejamento de uma solução digital para uma futura operação de hospedagem, considerando experiência do cliente, organização dos processos e funcionalidades para apresentação e reserva do imóvel.
+Projeto acadêmico e experimental que explora uma solução preventiva para reduzir o risco de condução após consumo de álcool, considerando **detecção, validação do motorista, tomada de decisão, bloqueio preventivo, alternativas seguras e nova validação**.
 
-🔗 **[Ver projeto no GitHub](https://github.com/Priscillacahino/Casa_de_praia_Venus)**
+🔗 **[Ver projeto no GitHub](https://github.com/Priscillacahino/AlcoLock_Bloqueio-Veicular-Antialcool)**
+
 
 ---
 
