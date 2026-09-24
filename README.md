@@ -31,16 +31,7 @@ Também venho desenvolvendo competências técnicas em desenvolvimento, dados e 
 
 Minha trajetória profissional inclui aproximadamente **18 anos no setor financeiro**, com atuação em diferentes etapas da jornada do cliente.
 
-Entre as experiências desenvolvidas estão:
-
-- atendimento consultivo e relacionamento com clientes;
-- análise de crédito e risco;
-- operações de financiamento imobiliário;
-- análise documental e acompanhamento de processos;
-- suporte comercial;
-- organização e priorização de demandas;
-- compliance;
-- resolução de problemas.
+Entre as experiências desenvolvidas estão atendimento consultivo, relacionamento com clientes, análise de crédito e risco, financiamento imobiliário, análise documental, acompanhamento de processos, suporte comercial, compliance e resolução de problemas.
 
 Essa experiência influencia diretamente a forma como desenvolvo meus projetos de tecnologia: procuro entender primeiro **o problema, o usuário e o processo** antes de pensar na solução.
 
@@ -48,13 +39,73 @@ Essa experiência influencia diretamente a forma como desenvolvo meus projetos d
 
 # 🚀 Projetos em destaque
 
+## 💜 Jornada360 — CX na Jornada de Financiamento Habitacional
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Priscillacahino/Jornada360/main/demonstracoes/linkedin_frames/01.png"
+    alt="Jornada360 — Customer Experience aplicado à jornada de financiamento habitacional"
+    width="720"
+  />
+</p>
+
+Projeto independente criado a partir da minha experiência profissional no setor financeiro, transformando uma jornada real de acompanhamento em um **case demonstrativo de CX, Customer Success, processos e tecnologia**.
+
+**CX • CS • Jornada do Cliente • Health Score • Voz do Cliente • Processos • JavaScript**
+
+🔗 **[Ver Jornada360 no GitHub](https://github.com/Priscillacahino/Jornada360)**
+
+---
+
+## 🎨 Adm4All — Administração para Todos
+
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/ded112b0-2f74-4f89-8997-12b2a4ce9f40"
+    alt="Adm4All — Administração para Todos"
+    width="720"
+  />
+</p>
+
+Projeto desenvolvido na **Fábrica de Software do UNIPÊ**, com participação na construção da experiência e das interfaces de uma plataforma educacional, considerando usabilidade, acessibilidade e organização dos fluxos.
+
+**UX/UI • Figma • Acessibilidade • Heurísticas**
+
+🔗 **[Ver Adm4All no GitHub](https://github.com/Priscillacahino/Fabrica_de_Software_2026.1_Adm4All)**
+
+---
+
+## 🐶 PetZona
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Priscillacahino/PetZona/main/petzona-capa-perfil.webp"
+    alt="PetZona — Estudo de Caso Acadêmico de UX/UI"
+    width="720"
+  />
+</p>
+
+Projeto acadêmico de **UX/UI** desenvolvido a partir da jornada de tutores de animais, explorando pontos de atrito, confiança, acompanhamento e experiência em serviços como Spa Pet, Day Care e Táxi Pet.
+
+**UX/UI • Customer Experience • Jornada do Cliente • Figma**
+
+🔗 **[Ver PetZona no GitHub](https://github.com/Priscillacahino/PetZona)**
+
+---
+
 ## 🚗 AlcoLock — Bloqueio Veicular Preventivo
 
-Projeto acadêmico e experimental que estuda uma solução preventiva relacionada ao risco de condução após consumo de álcool.
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Priscillacahino/AlcoLock_Bloqueio-Veicular-Antialcool/main/docs/imagens/alcolock_showcase_readme.png"
+    alt="AlcoLock — Bloqueio Veicular Preventivo"
+    width="720"
+  />
+</p>
 
-**CX/CS • UX • Requisitos • Pesquisa • Segurança • Privacidade • IoT conceitual**
+Projeto acadêmico e experimental que estuda uma solução preventiva relacionada ao risco de condução após consumo de álcool, considerando experiência do usuário, requisitos, segurança e privacidade.
 
-O foco do projeto não está apenas na tecnologia, mas também na jornada: o que acontece com o usuário antes, durante e depois de uma decisão do sistema.
+**CX/CS • UX • Requisitos • Pesquisa • Segurança • IoT conceitual**
 
 🔗 **[Ver AlcoLock no GitHub](https://github.com/Priscillacahino/AlcoLock_Bloqueio-Veicular-Antialcool)**
 
@@ -62,43 +113,35 @@ O foco do projeto não está apenas na tecnologia, mas também na jornada: o que
 
 ## 🐾 Padrinhos da Rua
 
-Projeto de extensão acadêmica que propõe o uso de tecnologia para organizar a continuidade do cuidado comunitário de animais.
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Priscillacahino/PadrinhosdaRua/main/prototipos/mobile/tela_de_boas_vindas_padrinhos_de_rua.png"
+    alt="Padrinhos da Rua — Projeto Extensionista"
+    width="420"
+  />
+</p>
+
+Projeto de extensão acadêmica que propõe o uso de tecnologia para apoiar a continuidade do cuidado comunitário de animais, organizando pontos de apoio, responsáveis, manutenção e acompanhamento.
 
 **PWA • Mobile First • UX/UI • Processos • Tecnologia Social**
-
-O projeto trabalha organização de pontos de apoio, responsáveis, manutenção, insumos e acompanhamento por meio de uma solução digital.
 
 🔗 **[Ver Padrinhos da Rua no GitHub](https://github.com/Priscillacahino/PadrinhosdaRua)**
 
 ---
 
-## 🐶 PetZona
-
-Projeto acadêmico de UX/UI desenvolvido a partir da jornada de tutores de animais.
-
-**UX/UI • Customer Experience • Jornada do Cliente • Figma**
-
-O projeto explora serviços como Spa Pet, Day Care e Táxi Pet, considerando pontos de atrito, confiança, acompanhamento e experiência durante a jornada.
-
-🔗 **[Ver PetZona no GitHub](https://github.com/Priscillacahino/PetZona)**
-
----
-
-## 🎨 Adm4All — Administração para Todos
-
-Projeto desenvolvido no contexto da **Fábrica de Software do UNIPÊ**, com participação na construção da experiência e das interfaces de uma plataforma educacional.
-
-**UX/UI • Figma • Acessibilidade • Heurísticas • Projeto acadêmico**
-
-🔗 **[Ver Adm4All no GitHub](https://github.com/Priscillacahino/Fabrica_de_Software_2026.1_Adm4All)**
-
----
-
 ## 📍 Guia de Lugares PB
 
-PWA criada como projeto pessoal para reunir lugares de João Pessoa e Conde que conheço e indicaria a visitantes.
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Priscillacahino/guia_lugares_pb/main/docs/imagens/guia-tela-inicial.png"
+    alt="Guia de Lugares PB — PWA de turismo e experiências locais"
+    width="420"
+  />
+</p>
 
-**PWA • Mobile First • JavaScript • Experiência do usuário • Uso online/offline**
+Projeto pessoal em formato **PWA**, criado para reunir lugares de João Pessoa, Cabedelo e Conde que conheço e indicaria a visitantes, com busca, filtros, favoritos e uso online/offline.
+
+**PWA • Mobile First • JavaScript • Experiência do Usuário • Offline**
 
 🔗 **[Ver Guia de Lugares PB no GitHub](https://github.com/Priscillacahino/guia_lugares_pb)**
 
